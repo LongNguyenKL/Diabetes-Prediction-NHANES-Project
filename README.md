@@ -1,5 +1,5 @@
 
-# Financial Well-being Evaluation Based on Self-Reported Financial Metrics 
+# Machine Learning in Healthcare Project: Detecting Diabetes Using Demographics Information, Physical Examinations, and Lab Tests 
 
 ## Introduction
 Due to limited healthcare resources and specialist access, early detection and intervention of diabetes remains a challenge. Machine learning (ML) models offer a promosing potential, enabling early detection by analyzing patient data to support traditional medical diagnosis methods.
